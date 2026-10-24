@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+
+# 上游正本（论文 docx / 对话记录 / 旧原型）：本地审计用，不进公开仓库
+assets/reference/
